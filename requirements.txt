@@ -1,0 +1,6 @@
+firebase-admin==6.7.0
+opencv-python
+ultralytics
+fastapi
+uvicorn
+python-multipart
