@@ -1,0 +1,17 @@
+ 
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Firebase
+serviceAccountKey.json
+
+# Local files
+cloud_storage/
+
+# IDE
+.vscode/
+.idea/
